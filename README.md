@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://gif-server-exploit1337.vercel.app/exploit.gif" alt="Exploit GIF">
+</p>
 
-<!--
-**bhaskarsaikia-17/bhaskarsaikia-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hey, I'm <a href="https://github.com/bhaskarsaikia-17">Bhaskar</a>!</h1>
+<h1 align="center">Heaven sent me back... to fix the bugs in humanity's code.</h1>
+
+<p align="center">
+  <strong><a href="https://bhaskarop.xyz">WebSite</a></strong> |
+  <strong><a href="https://toolscord.store">ToolsCord</a></strong> |
+  <strong><a href="https://discord.com/users/1273333726323019817">Discord</a></strong> |
+</p>
+
+<div align="center">
+  <a href="https://discord.com/users/1273333726323019817">
+    <img src="https://lanyard.cnrad.dev/api/215650422633791489?showDisplayName=true&idleMessage=idling..." alt="Discord Presence" />
+  </a>
+</div>
+
+
+<p align="center"></></p>
