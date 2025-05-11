@@ -18,9 +18,9 @@
     <img src="https://lanyard.cnrad.dev/api/1273333726323019817?showDisplayName=true&idleMessage=idling..." alt="Discord Presence" />
   </a>
 </div>
-<p align="center">
+
   [ProfileViews](https://komarev.com/ghpvc/?username=bhaskarsaikia-17&style=flat-square)
-</p>
+
 
 
 <p align="center"></></p>
