@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gif-server-exploit1337.vercel.app/exploit.gif" alt="Exploit GIF">
+  <img src="https://giphy.com/gifs/GTSDAgiUe4zITk3eKF" alt="Bhaskar Saikia">
 </p>
 
 
