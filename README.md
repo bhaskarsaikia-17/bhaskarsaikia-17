@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/GTSDAgiUe4zITk3eKF" alt="Bhaskar Saikia">
+  <img src="https://ibb.co/DH06g9Cq" alt="Bhaskar Saikia">
 </p>
 
 
