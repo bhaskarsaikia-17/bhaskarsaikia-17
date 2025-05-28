@@ -18,6 +18,12 @@ Heaven sent me back... to fix the bugs in humanity's code.
 ---
 [![](https://visitcount.itsvg.in/api?id=bhaskarsaikia-17&icon=3&color=0)](https://visitcount.itsvg.in)
 
+                                                 <div align="center">
+  <a href="https://discord.com/users/215650422633791489">
+    <img src="https://lanyard.cnrad.dev/api/215650422633791489?showDisplayName=true&idleMessage=idling..." alt="Discord Presence" />
+  </a>
+</div>
+
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bhaskarop) 
 
