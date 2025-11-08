@@ -3,7 +3,7 @@ Heaven sent me back... to fix the bugs in humanity's code.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9aHe6KM8bh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ecstacy_17) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9aHe6KM8bh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ecstacy17) 
 
 ## 👀 Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=bhaskarsaikia-17)
